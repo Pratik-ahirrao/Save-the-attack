@@ -15,4 +15,4 @@ a few).<br />
 The data collected ensures total user privacy.<br />
 The task is to save this virtual attack!<br />
 
-The dataset for the required big data problem can be found in this [link](https://www.google.com)
+The dataset for the required big data problem can be found in this [link](https://www.kaggle.com/c/save-the-attack-contest)
