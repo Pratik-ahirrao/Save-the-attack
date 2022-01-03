@@ -16,4 +16,4 @@ The data collected ensures total user privacy.<br />
 The task is to save this virtual attack!<br />
 
 The dataset for the required big data problem can be found in this [link](https://www.kaggle.com/c/save-the-attack-contest).<br />
-View the [Project Report]() for details about the Exploratory Data Analysis (EDA), preprocessing, training and testing steps.
+View the [Project Report](https://github.com/Pratik-ahirrao/Save-the-attack/blob/main/Report.pdf) for details about the Exploratory Data Analysis (EDA), preprocessing, training and testing steps.
